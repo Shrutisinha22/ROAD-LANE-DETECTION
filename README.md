@@ -1,6 +1,6 @@
 # ROAD-LANE-DETECTION
 
-##work:
+## Work:
 
 **To find and highlight driving lanes on highway**
 
@@ -14,5 +14,5 @@
 <img src="https://github.com/Shrutisinha22/ROAD-LANE-DETECTION/blob/main/sample_lane%201.JPG" width="380" height="250"> 
 
 #### Lane visibility low:
-<img src="https://raw.githubusercontent.com/ritwiksingh21/Lane-Detection/main/lane2.png" alt="Lane visibility low" width="380" height="250"> 
+<img src="https://github.com/Shrutisinha22/ROAD-LANE-DETECTION/blob/main/sample_lane%202.JPG" width="380" height="250"> 
  
